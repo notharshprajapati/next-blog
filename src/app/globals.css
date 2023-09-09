@@ -39,6 +39,7 @@ a {
   min-height: 100vh;
   background-color: var(--bg);
   color: var(--textColor);
+  transition-duration: 250ms;
 }
 
 .wrapper {
